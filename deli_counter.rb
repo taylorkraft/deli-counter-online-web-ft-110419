@@ -1,5 +1,5 @@
 katz_deli = []
 def line
   katz_deli.each do |name|
-    puts ""
+    puts "The line is currently: #{counter}. #{name} "
 end
