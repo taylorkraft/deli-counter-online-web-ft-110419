@@ -1,9 +1,6 @@
-def line
+def line(deli)
   katz_deli = []
   counter = 0
-  katz_deli == counter
-  puts "The line is currently empty."
-  katz_deli.each do |name| 
-    puts "The line is currently: #{counter}. #{name} "
- end
+  deli.each do |name|
+  katz_deli << ""
 end
