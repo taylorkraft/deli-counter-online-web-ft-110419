@@ -10,5 +10,5 @@ def take_a_number(array, string)
     if array.length == 0 
       array << string
       puts "Welcome, #{string}. You are number #{array.length} in line."
-end
+  end
 end
