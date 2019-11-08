@@ -5,3 +5,5 @@ def line(deli)
     puts "The line in currently "
   end
 end
+
+deli.each_with_index 
