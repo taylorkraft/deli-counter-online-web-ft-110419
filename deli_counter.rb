@@ -1,5 +1,5 @@
 katz_deli = []
-
+ppl_in_line =
 
 def line(deli)
  if  > 
