@@ -6,5 +6,7 @@ def line(deli)
   end
 end
 
-def take_a_number(array, string)
+def take_a_number(deli, customer)
+  if deli.length == 0
+    puts
 end
