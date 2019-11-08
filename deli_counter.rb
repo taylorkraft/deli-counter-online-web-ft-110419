@@ -9,6 +9,6 @@ end
 def take_a_number(array, string)
     if array.length == 0 
       array << string
-      puts "Welcome, #{string}"
+      puts "Welcome, #{string}. You are number #{index"
 end
 end
