@@ -6,4 +6,4 @@ def line(deli)
   end
 end
 
-deli.each_with_index { |index, name| p #{index}
+deli.each_with_index { |index, name| p "#{index}. #{name}"
