@@ -3,6 +3,7 @@ def line(deli)
   counter = 0
   while deli == counter
     puts katz_deli << "The line is currently empty."
+  end
  else
   puts katz_deli << "The line is currently: #{counter}. #{name}"
   counter += 1
