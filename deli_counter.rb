@@ -8,5 +8,5 @@ end
 
 def take_a_number(deli, customer)
   if deli.length == 0
-    puts
+    puts 
 end
