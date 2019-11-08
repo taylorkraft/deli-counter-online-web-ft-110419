@@ -4,7 +4,7 @@ def line(deli)
   while deli == counter
     puts katz_deli << "The line is currently empty."
   end
- else
+  while deli > counter
   puts katz_deli << "The line is currently: #{counter}. #{name}"
   counter += 1
   end
