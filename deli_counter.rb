@@ -1,5 +1,5 @@
 def line(deli)
-  katz_deli = []
+  if 
   counter = 0
   while deli == counter
     puts katz_deli << "The line is currently empty."
