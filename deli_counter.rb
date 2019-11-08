@@ -14,3 +14,5 @@ def take_a_number(array, string)
 end
 
 def now_serving
+  if array.length == 0 
+    
