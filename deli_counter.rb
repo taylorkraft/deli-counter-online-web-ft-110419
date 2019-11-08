@@ -1,4 +1,4 @@
-def line(katz_deli)
+def line
   katz_deli = []
   counter = 0
   while katz_deli == counter
