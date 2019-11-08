@@ -4,8 +4,8 @@ def line(array)
   else
     string = "The line is currently:"
     array.each.with_index(1) { |name, index| string << "#{index}. #{name}"}
+    puts string
   end
-  puts string
 end
 
 def take_a_number(array, string)
