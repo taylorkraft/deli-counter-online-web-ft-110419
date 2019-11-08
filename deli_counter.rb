@@ -6,6 +6,6 @@ def line(deli)
   end
 end
 
-def take_a_number(deli, customer)
-    deli.each_with_index(1) { |name, index| puts "Welcome, #{name}. You are number 1 in line."}
+def take_a_number(array, string)
+    if array.length 
 end
